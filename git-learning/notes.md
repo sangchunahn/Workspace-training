@@ -5,7 +5,9 @@
 
 ### git bisect start
 - you can start to check each commit to see if one branch is bad or good
+
 ### git bisect bad
 - telling git that this commit is bad
+
 ### git bisect good
 - telling git that this commit is good
